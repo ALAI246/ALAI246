@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Reagan 👋
 
-<!--
-**ALAI246/ALAI246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst & Machine Learning Enthusiast** with a strong foundation in statistics and predictive modeling. I enjoy transforming complex datasets into meaningful insights that support data-driven decision-making and research.
 
-Here are some ideas to get you started:
+Currently, I specialize in **machine learning, time series analysis, and survival analysis**, applying these techniques to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), R, SQL  
+- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
+- **Machine Learning:** Classification Models, Logistic Regression, Random Forest  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Specialties:** Predictive Modeling, Survival Analysis, Time Series Forecasting  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [Gamma-Ray vs Hadron Classification (MAGIC Data)](https://github.com/ALAI246)
+- Built a Logistic Regression model achieving **79.31% accuracy**  
+- Performed end-to-end analysis: preprocessing, EDA, feature scaling, and evaluation  
+- Identified model limitations and proposed improvements for research applications  
+
+### 🔹 [Customer Churn & Survival Analysis](https://github.com/ALAI246/customer-churn-survival-analysis)
+- Predicted customer retention with **89.5% accuracy** using Random Forest  
+- Applied **Kaplan-Meier survival analysis** to model customer lifetime behavior  
+- Generated actionable insights to support retention strategies  
+
+---
+
+## 📈 What I Bring
+- Strong statistical thinking and analytical problem-solving  
+- Ability to translate data into actionable insights  
+- Experience working with real-world datasets and building end-to-end projects  
+
+---
+
+## 📫 Connect With Me
+- 🔗 GitHub: https://github.com/ALAI246  
+- 🔗 Email alairegan@gmail.com
+- 
+  #open  to work
