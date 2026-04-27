@@ -28,6 +28,22 @@ Currently, I specialize in **machine learning, time series analysis, and surviva
 - Generated actionable insights to support retention strategies  
 
 ---
+## Rainfall Forecasting – Narok County
+•	🌧️ Applied Mann-Kendall test for trend detection 
+•	📊 Built SARIMA models for seasonal forecasting 
+•	🌱 Provided insights for agriculture and climate planning 
+
+-----
+## WORKNG ON THIS PROJECT CURRENTLY;;Analysis of the Global Transition to Sustainable Power Systems
+OBJECTIVES;
+## Goals and Objectives
+•	Trend Visualization: Create time-series analyses for the transition of energy sources (1990–2026).
+•	Comparative Benchmarking: Compare the renewable adoption rates of the G20 nations vs. emerging economies.
+•	Metric Calculation: Develop a "Green Transition Index" based on the rate of change in renewable share.
+•	Technical Proficiency: Demonstrate advanced data manipulation, cleaning, and visualization using the Python ecosystem
+
+
+
 
 ## 📈 What I Bring
 - Strong statistical thinking and analytical problem-solving  
